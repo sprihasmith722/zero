@@ -313,12 +313,5 @@
     "author": "Apptic Labs",
     "site": "",
     "test": false
-  },
-  {
-    "id": "00048",
-    "title": "Cinematic Car",
-    "author": "Apptic Labs",
-    "site": "",
-    "test": false
-  },
+  }
 ]
